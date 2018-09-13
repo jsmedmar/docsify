@@ -4,7 +4,7 @@ You can write Vue components directly in the Markdown file, and it will be parse
 
 ## Basic usage
 
-Load the Vue in `./index.html`.
+Load Vue in `./index.html`.
 
 ```html
 <script src="//unpkg.com/vue"></script>
